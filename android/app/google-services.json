@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "880026547405",
+    "project_id": "excel-formula-g-p-t-3nw07m",
+    "storage_bucket": "excel-formula-g-p-t-3nw07m.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880026547405:android:897c9b8c20a62a15166584",
+        "android_client_info": {
+          "package_name": "com.mycompany.excelformulagpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880026547405-ciludftoc8iumn51eg4h30go77a6bblj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZTMn_51oBbClrHamngmTyVNH8SyBA3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880026547405-ciludftoc8iumn51eg4h30go77a6bblj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880026547405-jd7435gc5ltqepiash56p9afe69jnps5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.excelformulagpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
