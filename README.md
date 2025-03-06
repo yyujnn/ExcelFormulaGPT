@@ -6,6 +6,7 @@ A new Flutter project.
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
 
+---
 <br>
 
 ## 🚀 Project Overview
@@ -17,14 +18,28 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 ## 🛠️ Tech Stack  
 - **Development Platform:** FlutterFlow  
 - **Backend:** Firebase (Firestore, Authentication)  
-- **API:** OpenAI ChatGPT API  
+- **API:** OpenAI ChatGPT API
+
 <br>
 
 ## ✨ Key Features  
-- ✅ **Excel Formula Generation**: ChatGPT API를 통해 사용자 입력을 바탕으로 적절한 공식 반환  
-- ✅ **User Authentication**: Firebase Authentication을 활용한 회원가입/로그인 기능  
-- ✅ **History Management**: 사용자가 생성한 공식과 질문을 저장하고 재확인 가능  
-- ✅ **Admin Panel**: 특정 사용자 히스토리 확인 및 피드백 댓글 작성 가능  
+✅ **Excel Formula Generation**: ChatGPT API를 통해 사용자 입력을 바탕으로 적절한 공식 반환  
+✅ **User Authentication**: Firebase Authentication을 활용한 회원가입/로그인 기능  
+✅ **History Management**: 사용자가 생성한 공식 기록 저장  
+✅ **Admin Panel**: 사용자 히스토리 확인 및 댓글 작성 가능  
 
+<br>
+
+## 📂 Project Structure  
+```bash
+/project_root
+│-- /pages                 # 앱 주요 화면 구성
+│-- /backend               # API, Firebase 연동 로직
+│-- /components            # 재사용 가능한 UI 컴포넌트
+│-- /firebase              # Firebase 설정 파일
+│-- /assets                # 앱에서 사용하는 이미지 및 아이콘
+│-- pubspec.yaml           # Flutter 패키지 관리
+│-- README.md              # 프로젝트 소개 문서
+````
 
 
