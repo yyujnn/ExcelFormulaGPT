@@ -41,5 +41,7 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 │-- pubspec.yaml           # Flutter 패키지 관리
 │-- README.md              # 프로젝트 소개 문서
 ````
+<br>
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/11ec4f72-663c-4dcc-8cd2-111d518ae560" />
 
